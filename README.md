@@ -13,3 +13,5 @@
 ## Flurl
 ## TestContainers
 ## Opentelemetry / NLog / Serilog
+# Others
+## Snitch (Cleaning .Net Dependencies)
